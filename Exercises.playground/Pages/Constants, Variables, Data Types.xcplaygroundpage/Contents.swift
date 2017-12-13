@@ -59,7 +59,11 @@ let averageAge = (Double(myAge) + otherAge)/2
  Create a variable that will track a person's favourite hobby. Select whatever name you feel is appropriate, but use the camel case convention when you name this variable.
  */
 // Answer Question 3 below
-
+let favouriteHobby = "Volleyball"
+let daysPlayedAWeek = 4
+var currentGamesAWeek = 2
+let practiceTimeMinutes = 60
+let gameTimeminutes = 80
 
 /*:
  ### Question 4
@@ -69,6 +73,7 @@ let averageAge = (Double(myAge) + otherAge)/2
  Use multiple `print` statements below to answer this question.
  */
 // Answer Question 4 below
+
 
 
 /*:
